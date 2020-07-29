@@ -1,2 +1,7 @@
 # EPS32-SmartModules
-Smart Modules using EPS32 chip
+Smart modules based on EPS32 chip
+
+    Meteo based on BME280
+    RTC
+    Lora
+    Relay module to control Light or wathever
